@@ -17,10 +17,9 @@ A Machine Learning regression project that predicts the quality of white wine (o
 *   Seaborn & Matplotlib
 
 ## ⚙️ How to Run
-1. Clone the repository:    /n ```bash
-   git clone https://github.com/YOUR-USERNAME/Wine-Quality-Prediction.git
-2. Install dependencies: /n pip install -r requirements.txt
-3. Open the notebook:   /njupyter notebook Predicting_wine_quality.ipynb
+1. Clone the repository: git clone https://github.com/YOUR-USERNAME/Wine-Quality-Prediction.git
+2. Install dependencies:  pip install -r requirements.txt
+3. Open the notebook:   jupyter notebook Predicting_wine_quality.ipynb
 
 📊 Results
 The model successfully identifies that Alcohol and Volatile Acidity are the strongest predictors of wine quality.
