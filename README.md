@@ -17,7 +17,7 @@ A Machine Learning regression project that predicts the quality of white wine (o
 *   Seaborn & Matplotlib
 
 ## ⚙️ How to Run
-1. Clone the repository: git clone https://github.com/TusharSFX/Wine-Quality-Prediction.git
+1. Clone the repository: git clone https://github.com/TusharSFX/Predicting-Wine-Quality.git
 2. Install dependencies:  pip install -r requirements.txt
 3. Open the notebook:   jupyter notebook Predicting_wine_quality.ipynb
 
